@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T02:20:53.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="k1j95lHw9j4r73W-9oh7" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T02:26:32.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="HvhWq7N9uW96dwr66uUB" version="13.0.1" type="github">
   <diagram id="pTIBHhMJ6O9ynmmQ5_P_" name="Page-1">
-    <mxGraphModel dx="807" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="807" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,10 +577,10 @@
         <mxCell id="IrSjTnCQqFItNlR5k4_0-349" value="nominate &#39;develop&#39; a.k.a develop/1.4&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IrSjTnCQqFItNlR5k4_0-350" value="nominate &#39;master&#39; a.k.a feature/1,4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="IrSjTnCQqFItNlR5k4_0-350" value="nominate &#39;master&#39; a.k.a feature/1.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="570" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IrSjTnCQqFItNlR5k4_0-351" value="&#39;master&#39; need to PR a,k.a develop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="IrSjTnCQqFItNlR5k4_0-351" value="&#39;master&#39; need to PR a.k.a develop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="650" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IrSjTnCQqFItNlR5k4_0-352" value="nominate &#39;master&#39; a.k.a feature/1.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -735,6 +735,9 @@
             <mxPoint x="380" y="660" as="sourcePoint" />
             <mxPoint x="430" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IrSjTnCQqFItNlR5k4_0-389" value="merge confilict" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="650" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
